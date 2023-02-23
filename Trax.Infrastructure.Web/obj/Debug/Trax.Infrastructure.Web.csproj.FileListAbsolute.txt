@@ -1,0 +1,13 @@
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Infrastructure.Web.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Infrastructure.Web.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Framework.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Framework.identity.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Models.ApiServicesWeb.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Models.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Trax.Models.Identity.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\obj\Debug\Trax.Infrastructure.Web.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\obj\Debug\Trax.Infrastructure.Web.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\obj\Debug\Trax.Infrastructure.Web.csproj.CopyComplete
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\obj\Debug\Trax.Infrastructure.Web.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Trax.Frontend.Web\Trax.Infrastructure.Web\obj\Debug\Trax.Infrastructure.Web.pdb

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="modal-body table-responsive" style="padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px;">
+                <table class="table table-striped-info  table-hove" id="tblClientes">
+                    <tr>
+                        <th style="font-size:small">#</th>
+                        <th style="font-size:small">Nombre</th>
+                        <th style="font-size:small">email</th>
+                        <th style="font-size:small">Telefono</th>
+                        <th style="font-size:small">Fecha registro</th>
+                    </tr>
+                    <tbody id="tbodyClientes">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section scripts {
+    <script src="~/ViewsScripts/Index.js"></script>
+}

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Trax.Frontend.Web.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiServicesEndPoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44334/ApiServices/</Value>
+    </Setting>
+    <Setting Name="PathLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Log/Log.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
