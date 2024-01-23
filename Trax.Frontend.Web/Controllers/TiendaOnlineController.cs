@@ -41,5 +41,6 @@ namespace Trax.Frontend.Web.Controllers
             }
             return Json(new { data = _Response.List }, JsonRequestBehavior.AllowGet);
         }
+
     }
 }
